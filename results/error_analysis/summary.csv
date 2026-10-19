@@ -1,0 +1,5 @@
+model,split,clips,wer,cer,hallucination_rate,errors_counted,share_vowel,share_boundary,share_loanword,share_number,share_other,loanword_tokens
+whisper-small-ft,ood_test,150,1.0152,0.688,0.04,2133,0.0094,0.0145,0.0,0.0,0.9761,0
+whisper-small-ft,test,234,0.7992,0.5453,0.0043,605,0.0678,0.0033,0.0281,0.0,0.9008,64
+whisper-small,ood_test,150,1.1575,0.6737,0.2467,2432,0.0086,0.0181,0.0,0.0,0.9733,0
+whisper-small,test,234,1.7332,0.9981,0.0812,1312,0.0023,0.0152,0.0389,0.0,0.9436,64

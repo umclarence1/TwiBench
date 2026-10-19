@@ -1,0 +1,138 @@
+audio,text,dialect,gender,age,speaker,prompt,duration,file
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp036-BJ1HHZ.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,19,asante:BSYPXxMY,Tmp036,4.838,AsantiTwiFm19-BSYPXxMY-Tmp036-BJ1HHZ.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp039-iMiNdj.flac,Network bɛn,asante,female,23,asante:PGbBevNS,Tmp039,3.018,AsantiTwiFm23-PGbBevNS-Tmp039-iMiNdj.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp051-j8So5Y.flac,Mɛtɔ credit 5 cedis,asante,female,23,asante:PGbBevNS,Tmp051,3.438,AsantiTwiFm23-PGbBevNS-Tmp051-j8So5Y.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp134-8OWfHv.flac,Me ho mfa me,asante,female,23,asante:PGbBevNS,Tmp134,1.878,AsantiTwiFm23-PGbBevNS-Tmp134-8OWfHv.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp039-JHEHd1.flac,Network bɛn,asante,female,24,asante:BDlTV6mS,Tmp039,4.654,AsantiTwiFm24-BDlTV6mS-Tmp039-JHEHd1.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp021-nPyIfU.flac,Awi no rehwehwɛ ahu,asante,female,24,asante:KMK6wnOP,Tmp021,2.998,AsantiTwiFm24-KMK6wnOP-Tmp021-nPyIfU.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp051-pgJLCy.flac,Mɛtɔ credit 5 cedis,asante,female,24,asante:KMK6wnOP,Tmp051,2.338,AsantiTwiFm24-KMK6wnOP-Tmp051-pgJLCy.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp134-caucze.flac,Me ho mfa me,asante,female,26,asante:AA3pe1bn,Tmp134,2.418,AsantiTwiFm26-AA3pe1bn-Tmp134-caucze.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp005-FtGgXo.flac,Wɔ ńkwankyɛn,asante,female,26,asante:BTHHcB4Y,Tmp005,4.518,AsantiTwiFm26-BTHHcB4Y-Tmp005-FtGgXo.wav
+data/processed/audio/dev/AsantiTwiMa19-JSVVb30H-Tmp015-5EKYbi.flac,Kɔɔ dua bi akyi,asante,male,19,asante:JSVVb30H,Tmp015,4.778,AsantiTwiMa19-JSVVb30H-Tmp015-5EKYbi.wav
+data/processed/audio/dev/AsantiTwiMa19-JSVVb30H-Tmp041-W4FkyE.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,male,19,asante:JSVVb30H,Tmp041,5.658,AsantiTwiMa19-JSVVb30H-Tmp041-W4FkyE.wav
+data/processed/audio/dev/AsantiTwiMa19-JSVVb30H-Tmp070-Htzw4F.flac,Mefri Ghana,asante,male,19,asante:JSVVb30H,Tmp070,4.298,AsantiTwiMa19-JSVVb30H-Tmp070-Htzw4F.wav
+data/processed/audio/dev/AsantiTwiMa19-JSVVb30H-Tmp082-XIHPpx.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,male,19,asante:JSVVb30H,Tmp082,4.258,AsantiTwiMa19-JSVVb30H-Tmp082-XIHPpx.wav
+data/processed/audio/dev/AsantiTwiMa20-SQF23O2h-Tmp070-zZ4wuw.flac,Mefri Ghana,asante,male,20,asante:SQF23O2h,Tmp070,0.998,AsantiTwiMa20-SQF23O2h-Tmp070-zZ4wuw.wav
+data/processed/audio/dev/AsantiTwiMa21-EAU8qhiw-Tmp009-zt1ZI2.flac,Wɔ nnwomkorɔ kuo bi mu,asante,male,21,asante:EAU8qhiw,Tmp009,2.858,AsantiTwiMa21-EAU8qhiw-Tmp009-zt1ZI2.wav
+data/processed/audio/dev/AsantiTwiMa21-EAU8qhiw-Tmp070-evvzn5.flac,Mefri Ghana,asante,male,21,asante:EAU8qhiw,Tmp070,3.078,AsantiTwiMa21-EAU8qhiw-Tmp070-evvzn5.wav
+data/processed/audio/dev/AsantiTwiMa21-EAU8qhiw-Tmp071-dToBlJ.flac,Akwadaa wei,asante,male,21,asante:EAU8qhiw,Tmp071,2.438,AsantiTwiMa21-EAU8qhiw-Tmp071-dToBlJ.wav
+data/processed/audio/dev/AsantiTwiMa21-EAU8qhiw-Tmp082-6WWdDQ.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,male,21,asante:EAU8qhiw,Tmp082,2.158,AsantiTwiMa21-EAU8qhiw-Tmp082-6WWdDQ.wav
+data/processed/audio/dev/AsantiTwiMa23-AOHqG4Hk-Tmp083-aTaCXw.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,male,23,asante:AOHqG4Hk,Tmp083,2.678,AsantiTwiMa23-AOHqG4Hk-Tmp083-aTaCXw.wav
+data/processed/audio/dev/AsantiTwiMa23-BHeEL41Y-Tmp036-x9wrDF.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,male,23,asante:BHeEL41Y,Tmp036,1.358,AsantiTwiMa23-BHeEL41Y-Tmp036-x9wrDF.wav
+data/processed/audio/dev/AsantiTwiMa23-BHeEL41Y-Tmp051-MQE9Ol.flac,Mɛtɔ credit 5 cedis,asante,male,23,asante:BHeEL41Y,Tmp051,1.518,AsantiTwiMa23-BHeEL41Y-Tmp051-MQE9Ol.wav
+data/processed/audio/dev/AsantiTwiMa23-BHeEL41Y-Tmp071-38pFim.flac,Akwadaa wei,asante,male,23,asante:BHeEL41Y,Tmp071,1.098,AsantiTwiMa23-BHeEL41Y-Tmp071-38pFim.wav
+data/processed/audio/dev/AsantiTwiMa25-JART851s-Tmp015-nzhtoq.flac,Kɔɔ dua bi akyi,asante,male,25,asante:JART851s,Tmp015,4.358,AsantiTwiMa25-JART851s-Tmp015-nzhtoq.wav
+data/processed/audio/dev/AsantiTwiMa25-JART851s-Tmp021-BmM053.flac,Awi no rehwehwɛ ahu,asante,male,25,asante:JART851s,Tmp021,3.958,AsantiTwiMa25-JART851s-Tmp021-BmM053.wav
+data/processed/audio/dev/AsantiTwiMa40-PAHO4JO8-Tmp021-4yzun3.flac,Awi no rehwehwɛ ahu,asante,male,40,asante:PAHO4JO8,Tmp021,6.798,AsantiTwiMa40-PAHO4JO8-Tmp021-4yzun3.wav
+data/processed/audio/dev/AsantiTwiMa40-PAHO4JO8-Tmp036-xJpw6H.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,male,40,asante:PAHO4JO8,Tmp036,6.098,AsantiTwiMa40-PAHO4JO8-Tmp036-xJpw6H.wav
+data/processed/audio/dev/AsantiTwiMa40-PAHO4JO8-Tmp070-o0cqsv.flac,Mefri Ghana,asante,male,40,asante:PAHO4JO8,Tmp070,6.038,AsantiTwiMa40-PAHO4JO8-Tmp070-o0cqsv.wav
+data/processed/audio/dev/AsantiTwiMa40-PAHO4JO8-Tmp134-A2Lwy3.flac,Me ho mfa me,asante,male,40,asante:PAHO4JO8,Tmp134,7.438,AsantiTwiMa40-PAHO4JO8-Tmp134-A2Lwy3.wav
+data/processed/audio/dev/AsantiTwiMa68-MA15UjRk-Tmp015-caixhE.flac,Kɔɔ dua bi akyi,asante,male,68,asante:MA15UjRk,Tmp015,3.618,AsantiTwiMa68-MA15UjRk-Tmp015-caixhE.wav
+data/processed/audio/dev/AsantiTwiMa68-MA15UjRk-Tmp039-rl0W0f.flac,Network bɛn,asante,male,68,asante:MA15UjRk,Tmp039,3.318,AsantiTwiMa68-MA15UjRk-Tmp039-rl0W0f.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp005-kLEjN9.flac,Wɔ ńkwankyɛn,asante,female,19,asante:BSYPXxMY,Tmp005,3.018,AsantiTwiFm19-BSYPXxMY-Tmp005-kLEjN9.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp009-OSwhQF.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,19,asante:BSYPXxMY,Tmp009,2.878,AsantiTwiFm19-BSYPXxMY-Tmp009-OSwhQF.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp015-IEJY5K.flac,Kɔɔ dua bi akyi,asante,female,19,asante:BSYPXxMY,Tmp015,5.378,AsantiTwiFm19-BSYPXxMY-Tmp015-IEJY5K.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp021-MzuIx1.flac,Awi no rehwehwɛ ahu,asante,female,19,asante:BSYPXxMY,Tmp021,4.898,AsantiTwiFm19-BSYPXxMY-Tmp021-MzuIx1.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp039-QhN2Tg.flac,Network bɛn,asante,female,19,asante:BSYPXxMY,Tmp039,3.778,AsantiTwiFm19-BSYPXxMY-Tmp039-QhN2Tg.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp041-1P74oE.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,19,asante:BSYPXxMY,Tmp041,5.578,AsantiTwiFm19-BSYPXxMY-Tmp041-1P74oE.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp051-jI6gJ1.flac,Mɛtɔ credit 5 cedis,asante,female,19,asante:BSYPXxMY,Tmp051,5.798,AsantiTwiFm19-BSYPXxMY-Tmp051-jI6gJ1.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp070-ONh05i.flac,Mefri Ghana,asante,female,19,asante:BSYPXxMY,Tmp070,2.978,AsantiTwiFm19-BSYPXxMY-Tmp070-ONh05i.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp071-umxu8i.flac,Akwadaa wei,asante,female,19,asante:BSYPXxMY,Tmp071,2.778,AsantiTwiFm19-BSYPXxMY-Tmp071-umxu8i.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp082-czffFO.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,19,asante:BSYPXxMY,Tmp082,3.418,AsantiTwiFm19-BSYPXxMY-Tmp082-czffFO.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp083-yC0AMs.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,19,asante:BSYPXxMY,Tmp083,4.098,AsantiTwiFm19-BSYPXxMY-Tmp083-yC0AMs.wav
+data/processed/audio/dev/AsantiTwiFm19-BSYPXxMY-Tmp134-NEFm44.flac,Me ho mfa me,asante,female,19,asante:BSYPXxMY,Tmp134,3.638,AsantiTwiFm19-BSYPXxMY-Tmp134-NEFm44.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp005-04SOCG.flac,Wɔ ńkwankyɛn,asante,female,21,asante:LBfV5sbD,Tmp005,2.698,AsantiTwiFm21-LBfV5sbD-Tmp005-04SOCG.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp009-pi5YcJ.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,21,asante:LBfV5sbD,Tmp009,3.098,AsantiTwiFm21-LBfV5sbD-Tmp009-pi5YcJ.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp015-YLYhpn.flac,Kɔɔ dua bi akyi,asante,female,21,asante:LBfV5sbD,Tmp015,2.418,AsantiTwiFm21-LBfV5sbD-Tmp015-YLYhpn.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp021-nCEubB.flac,Awi no rehwehwɛ ahu,asante,female,21,asante:LBfV5sbD,Tmp021,2.638,AsantiTwiFm21-LBfV5sbD-Tmp021-nCEubB.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp036-Tg3CzF.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,21,asante:LBfV5sbD,Tmp036,3.578,AsantiTwiFm21-LBfV5sbD-Tmp036-Tg3CzF.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp039-NCBNwP.flac,Network bɛn,asante,female,21,asante:LBfV5sbD,Tmp039,2.298,AsantiTwiFm21-LBfV5sbD-Tmp039-NCBNwP.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp041-LDnAOS.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,21,asante:LBfV5sbD,Tmp041,3.818,AsantiTwiFm21-LBfV5sbD-Tmp041-LDnAOS.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp051-LT669G.flac,Mɛtɔ credit 5 cedis,asante,female,21,asante:LBfV5sbD,Tmp051,3.138,AsantiTwiFm21-LBfV5sbD-Tmp051-LT669G.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp070-v1RaR0.flac,Mefri Ghana,asante,female,21,asante:LBfV5sbD,Tmp070,2.358,AsantiTwiFm21-LBfV5sbD-Tmp070-v1RaR0.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp071-o2HoyS.flac,Akwadaa wei,asante,female,21,asante:LBfV5sbD,Tmp071,2.078,AsantiTwiFm21-LBfV5sbD-Tmp071-o2HoyS.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp082-vcyd50.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,21,asante:LBfV5sbD,Tmp082,2.138,AsantiTwiFm21-LBfV5sbD-Tmp082-vcyd50.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp083-9Wm1re.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,21,asante:LBfV5sbD,Tmp083,2.078,AsantiTwiFm21-LBfV5sbD-Tmp083-9Wm1re.wav
+data/processed/audio/dev/AsantiTwiFm21-LBfV5sbD-Tmp134-ObclP8.flac,Me ho mfa me,asante,female,21,asante:LBfV5sbD,Tmp134,2.858,AsantiTwiFm21-LBfV5sbD-Tmp134-ObclP8.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp005-1TCBbJ.flac,Wɔ ńkwankyɛn,asante,female,23,asante:GLmqxvGx,Tmp005,1.358,AsantiTwiFm23-GLmqxvGx-Tmp005-1TCBbJ.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp009-5I7PBS.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,23,asante:GLmqxvGx,Tmp009,1.998,AsantiTwiFm23-GLmqxvGx-Tmp009-5I7PBS.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp015-AmMDOy.flac,Kɔɔ dua bi akyi,asante,female,23,asante:GLmqxvGx,Tmp015,2.098,AsantiTwiFm23-GLmqxvGx-Tmp015-AmMDOy.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp021-Xp7wYN.flac,Awi no rehwehwɛ ahu,asante,female,23,asante:GLmqxvGx,Tmp021,3.538,AsantiTwiFm23-GLmqxvGx-Tmp021-Xp7wYN.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp036-GmmZOP.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,23,asante:GLmqxvGx,Tmp036,2.578,AsantiTwiFm23-GLmqxvGx-Tmp036-GmmZOP.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp039-I1OUeG.flac,Network bɛn,asante,female,23,asante:GLmqxvGx,Tmp039,1.578,AsantiTwiFm23-GLmqxvGx-Tmp039-I1OUeG.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp041-PWnICv.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,23,asante:GLmqxvGx,Tmp041,3.478,AsantiTwiFm23-GLmqxvGx-Tmp041-PWnICv.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp051-42UXq2.flac,Mɛtɔ credit 5 cedis,asante,female,23,asante:GLmqxvGx,Tmp051,2.778,AsantiTwiFm23-GLmqxvGx-Tmp051-42UXq2.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp070-YhcOoV.flac,Mefri Ghana,asante,female,23,asante:GLmqxvGx,Tmp070,1.898,AsantiTwiFm23-GLmqxvGx-Tmp070-YhcOoV.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp071-rwOixo.flac,Akwadaa wei,asante,female,23,asante:GLmqxvGx,Tmp071,1.718,AsantiTwiFm23-GLmqxvGx-Tmp071-rwOixo.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp082-Zivvqx.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,23,asante:GLmqxvGx,Tmp082,1.798,AsantiTwiFm23-GLmqxvGx-Tmp082-Zivvqx.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp083-GqBMDw.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,23,asante:GLmqxvGx,Tmp083,2.518,AsantiTwiFm23-GLmqxvGx-Tmp083-GqBMDw.wav
+data/processed/audio/dev/AsantiTwiFm23-GLmqxvGx-Tmp134-NcznsH.flac,Me ho mfa me,asante,female,23,asante:GLmqxvGx,Tmp134,2.418,AsantiTwiFm23-GLmqxvGx-Tmp134-NcznsH.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp005-2aetPu.flac,Wɔ ńkwankyɛn,asante,female,23,asante:PGbBevNS,Tmp005,4.058,AsantiTwiFm23-PGbBevNS-Tmp005-2aetPu.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp009-uIkNiq.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,23,asante:PGbBevNS,Tmp009,3.418,AsantiTwiFm23-PGbBevNS-Tmp009-uIkNiq.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp015-PN18gW.flac,Kɔɔ dua bi akyi,asante,female,23,asante:PGbBevNS,Tmp015,2.838,AsantiTwiFm23-PGbBevNS-Tmp015-PN18gW.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp021-ZRvENV.flac,Awi no rehwehwɛ ahu,asante,female,23,asante:PGbBevNS,Tmp021,3.558,AsantiTwiFm23-PGbBevNS-Tmp021-ZRvENV.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp036-PyX3yj.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,23,asante:PGbBevNS,Tmp036,3.558,AsantiTwiFm23-PGbBevNS-Tmp036-PyX3yj.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp041-LrwxmW.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,23,asante:PGbBevNS,Tmp041,4.398,AsantiTwiFm23-PGbBevNS-Tmp041-LrwxmW.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp070-9l3XTJ.flac,Mefri Ghana,asante,female,23,asante:PGbBevNS,Tmp070,2.938,AsantiTwiFm23-PGbBevNS-Tmp070-9l3XTJ.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp071-dIRV2j.flac,Akwadaa wei,asante,female,23,asante:PGbBevNS,Tmp071,2.818,AsantiTwiFm23-PGbBevNS-Tmp071-dIRV2j.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp082-FyWcSK.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,23,asante:PGbBevNS,Tmp082,2.338,AsantiTwiFm23-PGbBevNS-Tmp082-FyWcSK.wav
+data/processed/audio/dev/AsantiTwiFm23-PGbBevNS-Tmp083-4GxSlY.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,23,asante:PGbBevNS,Tmp083,2.278,AsantiTwiFm23-PGbBevNS-Tmp083-4GxSlY.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp005-MUV8gR.flac,Wɔ ńkwankyɛn,asante,female,24,asante:BDlTV6mS,Tmp005,4.593,AsantiTwiFm24-BDlTV6mS-Tmp005-MUV8gR.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp009-6KWnTL.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,24,asante:BDlTV6mS,Tmp009,5.213,AsantiTwiFm24-BDlTV6mS-Tmp009-6KWnTL.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp015-tvHBQs.flac,Kɔɔ dua bi akyi,asante,female,24,asante:BDlTV6mS,Tmp015,5.013,AsantiTwiFm24-BDlTV6mS-Tmp015-tvHBQs.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp021-D489ps.flac,Awi no rehwehwɛ ahu,asante,female,24,asante:BDlTV6mS,Tmp021,5.373,AsantiTwiFm24-BDlTV6mS-Tmp021-D489ps.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp036-TAgdAj.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,24,asante:BDlTV6mS,Tmp036,5.553,AsantiTwiFm24-BDlTV6mS-Tmp036-TAgdAj.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp041-dUETsP.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,24,asante:BDlTV6mS,Tmp041,7.093,AsantiTwiFm24-BDlTV6mS-Tmp041-dUETsP.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp051-YutYzS.flac,Mɛtɔ credit 5 cedis,asante,female,24,asante:BDlTV6mS,Tmp051,5.053,AsantiTwiFm24-BDlTV6mS-Tmp051-YutYzS.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp070-hZBVT8.flac,Mefri Ghana,asante,female,24,asante:BDlTV6mS,Tmp070,4.194,AsantiTwiFm24-BDlTV6mS-Tmp070-hZBVT8.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp071-Sj1w0c.flac,Akwadaa wei,asante,female,24,asante:BDlTV6mS,Tmp071,4.154,AsantiTwiFm24-BDlTV6mS-Tmp071-Sj1w0c.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp082-PEaJB1.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,24,asante:BDlTV6mS,Tmp082,4.574,AsantiTwiFm24-BDlTV6mS-Tmp082-PEaJB1.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp083-6B0xpu.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,24,asante:BDlTV6mS,Tmp083,4.373,AsantiTwiFm24-BDlTV6mS-Tmp083-6B0xpu.wav
+data/processed/audio/dev/AsantiTwiFm24-BDlTV6mS-Tmp134-kJj7oX.flac,Me ho mfa me,asante,female,24,asante:BDlTV6mS,Tmp134,4.293,AsantiTwiFm24-BDlTV6mS-Tmp134-kJj7oX.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp005-pq6KVW.flac,Wɔ ńkwankyɛn,asante,female,24,asante:KMK6wnOP,Tmp005,2.458,AsantiTwiFm24-KMK6wnOP-Tmp005-pq6KVW.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp009-uYgv5X.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,24,asante:KMK6wnOP,Tmp009,3.438,AsantiTwiFm24-KMK6wnOP-Tmp009-uYgv5X.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp015-3VOZis.flac,Kɔɔ dua bi akyi,asante,female,24,asante:KMK6wnOP,Tmp015,2.878,AsantiTwiFm24-KMK6wnOP-Tmp015-3VOZis.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp036-zkFN9o.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,24,asante:KMK6wnOP,Tmp036,3.018,AsantiTwiFm24-KMK6wnOP-Tmp036-zkFN9o.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp039-PBQLGR.flac,Network bɛn,asante,female,24,asante:KMK6wnOP,Tmp039,2.078,AsantiTwiFm24-KMK6wnOP-Tmp039-PBQLGR.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp041-0OsgKf.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,24,asante:KMK6wnOP,Tmp041,3.418,AsantiTwiFm24-KMK6wnOP-Tmp041-0OsgKf.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp070-hV22nN.flac,Mefri Ghana,asante,female,24,asante:KMK6wnOP,Tmp070,2.238,AsantiTwiFm24-KMK6wnOP-Tmp070-hV22nN.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp071-E3FcKJ.flac,Akwadaa wei,asante,female,24,asante:KMK6wnOP,Tmp071,2.378,AsantiTwiFm24-KMK6wnOP-Tmp071-E3FcKJ.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp082-h9fAk7.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,24,asante:KMK6wnOP,Tmp082,2.278,AsantiTwiFm24-KMK6wnOP-Tmp082-h9fAk7.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp083-u33Kxn.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,24,asante:KMK6wnOP,Tmp083,2.158,AsantiTwiFm24-KMK6wnOP-Tmp083-u33Kxn.wav
+data/processed/audio/dev/AsantiTwiFm24-KMK6wnOP-Tmp134-gbdJUK.flac,Me ho mfa me,asante,female,24,asante:KMK6wnOP,Tmp134,2.258,AsantiTwiFm24-KMK6wnOP-Tmp134-gbdJUK.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp005-ZGmNwp.flac,Wɔ ńkwankyɛn,asante,female,25,asante:MK9pdDu5,Tmp005,5.258,AsantiTwiFm25-MK9pdDu5-Tmp005-ZGmNwp.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp009-qzIV5n.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,25,asante:MK9pdDu5,Tmp009,5.178,AsantiTwiFm25-MK9pdDu5-Tmp009-qzIV5n.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp015-NWn778.flac,Kɔɔ dua bi akyi,asante,female,25,asante:MK9pdDu5,Tmp015,2.838,AsantiTwiFm25-MK9pdDu5-Tmp015-NWn778.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp021-4djxQS.flac,Awi no rehwehwɛ ahu,asante,female,25,asante:MK9pdDu5,Tmp021,7.158,AsantiTwiFm25-MK9pdDu5-Tmp021-4djxQS.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp036-cEq7iQ.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,25,asante:MK9pdDu5,Tmp036,5.518,AsantiTwiFm25-MK9pdDu5-Tmp036-cEq7iQ.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp039-vAnUIJ.flac,Network bɛn,asante,female,25,asante:MK9pdDu5,Tmp039,5.198,AsantiTwiFm25-MK9pdDu5-Tmp039-vAnUIJ.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp041-42HmOG.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,25,asante:MK9pdDu5,Tmp041,6.318,AsantiTwiFm25-MK9pdDu5-Tmp041-42HmOG.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp051-tQM3Xb.flac,Mɛtɔ credit 5 cedis,asante,female,25,asante:MK9pdDu5,Tmp051,5.838,AsantiTwiFm25-MK9pdDu5-Tmp051-tQM3Xb.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp070-QEjTpi.flac,Mefri Ghana,asante,female,25,asante:MK9pdDu5,Tmp070,5.118,AsantiTwiFm25-MK9pdDu5-Tmp070-QEjTpi.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp071-ZGQxdr.flac,Akwadaa wei,asante,female,25,asante:MK9pdDu5,Tmp071,5.178,AsantiTwiFm25-MK9pdDu5-Tmp071-ZGQxdr.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp082-cfLD0F.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,25,asante:MK9pdDu5,Tmp082,5.078,AsantiTwiFm25-MK9pdDu5-Tmp082-cfLD0F.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp083-Q5zVmW.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,25,asante:MK9pdDu5,Tmp083,4.618,AsantiTwiFm25-MK9pdDu5-Tmp083-Q5zVmW.wav
+data/processed/audio/dev/AsantiTwiFm25-MK9pdDu5-Tmp134-a3eCiW.flac,Me ho mfa me,asante,female,25,asante:MK9pdDu5,Tmp134,5.078,AsantiTwiFm25-MK9pdDu5-Tmp134-a3eCiW.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp005-odAnNK.flac,Wɔ ńkwankyɛn,asante,female,26,asante:AA3pe1bn,Tmp005,2.918,AsantiTwiFm26-AA3pe1bn-Tmp005-odAnNK.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp009-YfLbyY.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,26,asante:AA3pe1bn,Tmp009,4.578,AsantiTwiFm26-AA3pe1bn-Tmp009-YfLbyY.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp015-ORlEj2.flac,Kɔɔ dua bi akyi,asante,female,26,asante:AA3pe1bn,Tmp015,3.338,AsantiTwiFm26-AA3pe1bn-Tmp015-ORlEj2.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp021-dEi517.flac,Awi no rehwehwɛ ahu,asante,female,26,asante:AA3pe1bn,Tmp021,3.938,AsantiTwiFm26-AA3pe1bn-Tmp021-dEi517.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp036-S5BJZz.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,26,asante:AA3pe1bn,Tmp036,3.918,AsantiTwiFm26-AA3pe1bn-Tmp036-S5BJZz.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp039-lv4rpD.flac,Network bɛn,asante,female,26,asante:AA3pe1bn,Tmp039,3.198,AsantiTwiFm26-AA3pe1bn-Tmp039-lv4rpD.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp041-MdJL2Y.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,26,asante:AA3pe1bn,Tmp041,3.998,AsantiTwiFm26-AA3pe1bn-Tmp041-MdJL2Y.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp051-nT8HLf.flac,Mɛtɔ credit 5 cedis,asante,female,26,asante:AA3pe1bn,Tmp051,2.598,AsantiTwiFm26-AA3pe1bn-Tmp051-nT8HLf.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp070-E8C5rW.flac,Mefri Ghana,asante,female,26,asante:AA3pe1bn,Tmp070,2.018,AsantiTwiFm26-AA3pe1bn-Tmp070-E8C5rW.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp071-naoQFi.flac,Akwadaa wei,asante,female,26,asante:AA3pe1bn,Tmp071,2.358,AsantiTwiFm26-AA3pe1bn-Tmp071-naoQFi.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp082-dbHkor.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,26,asante:AA3pe1bn,Tmp082,2.398,AsantiTwiFm26-AA3pe1bn-Tmp082-dbHkor.wav
+data/processed/audio/dev/AsantiTwiFm26-AA3pe1bn-Tmp083-wo7RDZ.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,26,asante:AA3pe1bn,Tmp083,2.318,AsantiTwiFm26-AA3pe1bn-Tmp083-wo7RDZ.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp009-6txfKB.flac,Wɔ nnwomkorɔ kuo bi mu,asante,female,26,asante:BTHHcB4Y,Tmp009,5.038,AsantiTwiFm26-BTHHcB4Y-Tmp009-6txfKB.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp015-SXN185.flac,Kɔɔ dua bi akyi,asante,female,26,asante:BTHHcB4Y,Tmp015,2.418,AsantiTwiFm26-BTHHcB4Y-Tmp015-SXN185.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp021-5X4GDH.flac,Awi no rehwehwɛ ahu,asante,female,26,asante:BTHHcB4Y,Tmp021,2.538,AsantiTwiFm26-BTHHcB4Y-Tmp021-5X4GDH.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp036-nTzuAz.flac,Wo pɛsɛ wo yɛ deɛn ɛnɛ,asante,female,26,asante:BTHHcB4Y,Tmp036,2.538,AsantiTwiFm26-BTHHcB4Y-Tmp036-nTzuAz.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp039-g0b7RF.flac,Network bɛn,asante,female,26,asante:BTHHcB4Y,Tmp039,1.618,AsantiTwiFm26-BTHHcB4Y-Tmp039-g0b7RF.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp041-hNrub8.flac,Number bɛn na wo pɛse wo tɔ gu su,asante,female,26,asante:BTHHcB4Y,Tmp041,2.758,AsantiTwiFm26-BTHHcB4Y-Tmp041-hNrub8.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp051-Sba4QQ.flac,Mɛtɔ credit 5 cedis,asante,female,26,asante:BTHHcB4Y,Tmp051,2.558,AsantiTwiFm26-BTHHcB4Y-Tmp051-Sba4QQ.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp070-40ftVw.flac,Mefri Ghana,asante,female,26,asante:BTHHcB4Y,Tmp070,2.678,AsantiTwiFm26-BTHHcB4Y-Tmp070-40ftVw.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp071-r7EFRA.flac,Akwadaa wei,asante,female,26,asante:BTHHcB4Y,Tmp071,2.418,AsantiTwiFm26-BTHHcB4Y-Tmp071-r7EFRA.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp082-M955dA.flac,ɛberɛ nni hɔ/  mmerɛ nni hɔ,asante,female,26,asante:BTHHcB4Y,Tmp082,1.558,AsantiTwiFm26-BTHHcB4Y-Tmp082-M955dA.wav
+data/processed/audio/dev/AsantiTwiFm26-BTHHcB4Y-Tmp083-njqHFk.flac,Nnipa yɛ bad (informal) / Nnipa nnyɛ (formal),asante,female,26,asante:BTHHcB4Y,Tmp083,2.098,AsantiTwiFm26-BTHHcB4Y-Tmp083-njqHFk.wav

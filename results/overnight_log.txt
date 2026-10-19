@@ -1,0 +1,16 @@
+[2026-10-19 00:28] overnight run started
+[2026-10-19 00:28] waiting for the zero-shot out-of-domain baseline to finish...
+[2026-10-19 00:33] overnight run started
+[2026-10-19 00:33] START finetune
+[2026-10-19 16:06] END   finetune: exit 3221225477 after 933 min
+[2026-10-19 16:06] fine-tuning failed; see results/log_finetune.txt. Stopping.
+[2026-10-19 16:07] overnight run started
+[2026-10-19 16:07] START eval_ft_test
+[2026-10-19 16:23] END   eval_ft_test: exit 0 after 16 min
+[2026-10-19 16:23] START eval_ft_ood_test
+[2026-10-19 16:34] END   eval_ft_ood_test: exit 0 after 11 min
+[2026-10-19 16:34] START eval_zeroshot_ood_test
+[2026-10-19 16:56] END   eval_zeroshot_ood_test: exit 0 after 22 min
+[2026-10-19 16:56] START error_analysis
+[2026-10-19 16:56] END   error_analysis: exit 0 after 0 min
+[2026-10-19 16:56] overnight run finished

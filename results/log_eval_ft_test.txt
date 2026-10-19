@@ -1,0 +1,53 @@
+whisper-small-ft: 234 clips from test on cpu
+Loading weights:   0%|          | 0/479 [00:00<?, ?it/s]Loading weights:   5%|▍         | 22/479 [00:00<00:02, 182.90it/s]Loading weights:   9%|▉         | 45/479 [00:00<00:02, 172.34it/s]Loading weights:  15%|█▌        | 73/479 [00:00<00:01, 210.67it/s]Loading weights:  21%|██        | 99/479 [00:00<00:01, 220.74it/s]Loading weights:  25%|██▌       | 122/479 [00:00<00:01, 223.38it/s]Loading weights:  33%|███▎      | 157/479 [00:00<00:01, 262.71it/s]Loading weights:  38%|███▊      | 184/479 [00:00<00:01, 259.62it/s]Loading weights:  44%|████▍     | 211/479 [00:00<00:01, 237.79it/s]Loading weights:  49%|████▉     | 236/479 [00:01<00:01, 218.62it/s]Loading weights:  54%|█████▍    | 260/479 [00:01<00:01, 218.00it/s]Loading weights:  59%|█████▉    | 283/479 [00:01<00:00, 219.68it/s]Loading weights:  64%|██████▍   | 306/479 [00:01<00:00, 192.21it/s]Loading weights:  68%|██████▊   | 326/479 [00:01<00:00, 173.54it/s]Loading weights:  72%|███████▏  | 345/479 [00:01<00:00, 160.15it/s]Loading weights:  76%|███████▌  | 362/479 [00:01<00:00, 150.26it/s]Loading weights:  80%|████████  | 384/479 [00:01<00:00, 162.95it/s]Loading weights: 100%|██████████| 479/479 [00:01<00:00, 243.04it/s]
+  0%|          | 0/15 [00:00<?, ?it/s][transformers] Passing `generation_config` together with generation-related arguments=({'suppress_tokens', 'begin_suppress_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.
+[transformers] The attention mask is not set with a batched input, and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer WhisperTokenizer. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+  7%|▋         | 1/15 [01:22<19:17, 82.65s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 13%|█▎        | 2/15 [02:20<14:46, 68.18s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 20%|██        | 3/15 [03:16<12:31, 62.58s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 27%|██▋       | 4/15 [04:09<10:47, 58.87s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 33%|███▎      | 5/15 [05:10<09:56, 59.61s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 40%|████      | 6/15 [06:08<08:50, 58.90s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 47%|████▋     | 7/15 [07:11<08:02, 60.26s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 53%|█████▎    | 8/15 [08:07<06:53, 59.05s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 60%|██████    | 9/15 [09:06<05:54, 59.07s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 67%|██████▋   | 10/15 [10:09<05:00, 60.08s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 73%|███████▎  | 11/15 [11:10<04:02, 60.59s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 80%|████████  | 12/15 [12:08<02:59, 59.73s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 87%|████████▋ | 13/15 [13:35<02:15, 67.86s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 93%|█████████▎| 14/15 [14:30<01:04, 64.04s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+100%|██████████| 15/15 [15:09<00:00, 56.43s/it]100%|██████████| 15/15 [15:09<00:00, 60.62s/it]
+model                                                whisper-small-ft
+model_id            C:\Users\Clarence\New folder\models\whisper-sm...
+split                                                            test
+clips                                                             234
+wer                                                            0.7992
+cer                                                            0.5453
+wer_folded                                                      0.716
+cer_folded                                                     0.5047
+wer_asante                                                     0.7992
+cer_asante                                                     0.5453
+wer_female                                                     0.7887
+cer_female                                                     0.5504
+wer_male                                                       0.8559
+cer_male                                                       0.5187
+real_time_factor                                               1.0617
+
+Examples:
+  REF:  Akwaaba
+  PRED: Akwada
+
+  REF:  Akwaaba
+  PRED: Akwada
+
+  REF:  Woka borɔfo
+  PRED: Wokabrafo
+
+  REF:  Mayera
+  PRED: Mee yɛra
+
+  REF:  ɛkɔm de me
+  PRED: ɛkɔm de me
+

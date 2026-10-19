@@ -1,0 +1,235 @@
+audio,text,dialect,gender,age,speaker,prompt,duration,file
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp093-pA0qg5.flac,Akwaaba,asante,female,19,asante:SHYw5y1R,Tmp093,4.018,AsantiTwiFm19-SHYw5y1R-Tmp093-pA0qg5.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp093-lIQcF5.flac,Akwaaba,asante,female,20,asante:CTwUaRZ4,Tmp093,2.038,AsantiTwiFm20-CTwUaRZ4-Tmp093-lIQcF5.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp105-AVVeBV.flac,Woka borɔfo,asante,female,20,asante:CTwUaRZ4,Tmp105,1.858,AsantiTwiFm20-CTwUaRZ4-Tmp105-AVVeBV.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp108-sHgX8g.flac,Mayera,asante,female,20,asante:CTwUaRZ4,Tmp108,2.018,AsantiTwiFm20-CTwUaRZ4-Tmp108-sHgX8g.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp110-ZBku2n.flac,ɛkɔm de me,asante,female,20,asante:CTwUaRZ4,Tmp110,2.138,AsantiTwiFm20-CTwUaRZ4-Tmp110-ZBku2n.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp004-lf2qFU.flac,Okuu adubɔfoɔ,asante,female,21,asante:MBi5I8oJ,Tmp004,5.753,AsantiTwiFm21-MBi5I8oJ-Tmp004-lf2qFU.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp004-r9V55d.flac,Okuu adubɔfoɔ,asante,female,22,asante:MAQYxgil,Tmp004,2.054,AsantiTwiFm22-MAQYxgil-Tmp004-r9V55d.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp004-h0u8Xf.flac,Okuu adubɔfoɔ,asante,female,22,asante:PQ6RJqMf,Tmp004,2.698,AsantiTwiFm22-PQ6RJqMf-Tmp004-h0u8Xf.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp048-oljaL8.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,22,asante:PQ6RJqMf,Tmp048,6.518,AsantiTwiFm22-PQ6RJqMf-Tmp048-oljaL8.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp048-ZOSMo5.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,24,asante:FA5lyzBU,Tmp048,5.918,AsantiTwiFm24-FA5lyzBU-Tmp048-ZOSMo5.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp093-Pm0pz5.flac,Akwaaba,asante,female,24,asante:STWjCZCq,Tmp093,3.793,AsantiTwiFm24-STWjCZCq-Tmp093-Pm0pz5.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp086-NOkymo.flac,Meredwene wo ho,asante,female,24,asante:VAD78uK2,Tmp086,5.438,AsantiTwiFm24-VAD78uK2-Tmp086-NOkymo.wav
+data/processed/audio/test/AsantiTwiFm29-EBa8yLZx-Tmp032-mg9pUx.flac,A ohuu wɔ nkran,asante,female,29,asante:EBa8yLZx,Tmp032,2.293,AsantiTwiFm29-EBa8yLZx-Tmp032-mg9pUx.wav
+data/processed/audio/test/AsantiTwiFm29-EBa8yLZx-Tmp108-7ru58H.flac,Mayera,asante,female,29,asante:EBa8yLZx,Tmp108,1.093,AsantiTwiFm29-EBa8yLZx-Tmp108-7ru58H.wav
+data/processed/audio/test/AsantiTwiFm29-EBa8yLZx-Tmp110-NkVSVK.flac,ɛkɔm de me,asante,female,29,asante:EBa8yLZx,Tmp110,2.014,AsantiTwiFm29-EBa8yLZx-Tmp110-NkVSVK.wav
+data/processed/audio/test/AsantiTwiFm60-MSJ1Bd5N-Tmp058-pvjUhY.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,60,asante:MSJ1Bd5N,Tmp058,4.458,AsantiTwiFm60-MSJ1Bd5N-Tmp058-pvjUhY.wav
+data/processed/audio/test/AsantiTwiMa19-AAkeawcj-Tmp086-w8Kjpw.flac,Meredwene wo ho,asante,male,19,asante:AAkeawcj,Tmp086,4.658,AsantiTwiMa19-AAkeawcj-Tmp086-w8Kjpw.wav
+data/processed/audio/test/AsantiTwiMa22-JBdbQfOh-Tmp004-Xxk7yy.flac,Okuu adubɔfoɔ,asante,male,22,asante:JBdbQfOh,Tmp004,3.618,AsantiTwiMa22-JBdbQfOh-Tmp004-Xxk7yy.wav
+data/processed/audio/test/AsantiTwiMa22-JBdbQfOh-Tmp024-iTIJMQ.flac,Pia no bio,asante,male,22,asante:JBdbQfOh,Tmp024,2.278,AsantiTwiMa22-JBdbQfOh-Tmp024-iTIJMQ.wav
+data/processed/audio/test/AsantiTwiMa22-JBdbQfOh-Tmp084-1Hj3nx.flac,Wɔn ti,asante,male,22,asante:JBdbQfOh,Tmp084,2.798,AsantiTwiMa22-JBdbQfOh-Tmp084-1Hj3nx.wav
+data/processed/audio/test/AsantiTwiMa22-JBdbQfOh-Tmp110-ynU8Aw.flac,ɛkɔm de me,asante,male,22,asante:JBdbQfOh,Tmp110,3.038,AsantiTwiMa22-JBdbQfOh-Tmp110-ynU8Aw.wav
+data/processed/audio/test/AsantiTwiMa22-LKiVnqTG-Tmp093-KmUPfo.flac,Akwaaba,asante,male,22,asante:LKiVnqTG,Tmp093,1.433,AsantiTwiMa22-LKiVnqTG-Tmp093-KmUPfo.wav
+data/processed/audio/test/AsantiTwiMa22-PA9otRge-Tmp048-3MA1gA.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,male,22,asante:PA9otRge,Tmp048,5.494,AsantiTwiMa22-PA9otRge-Tmp048-3MA1gA.wav
+data/processed/audio/test/AsantiTwiMa22-PA9otRge-Tmp093-cJBc8a.flac,Akwaaba,asante,male,22,asante:PA9otRge,Tmp093,3.313,AsantiTwiMa22-PA9otRge-Tmp093-cJBc8a.wav
+data/processed/audio/test/AsantiTwiMa22-TQnsZxsp-Tmp004-hsPIo2.flac,Okuu adubɔfoɔ,asante,male,22,asante:TQnsZxsp,Tmp004,3.378,AsantiTwiMa22-TQnsZxsp-Tmp004-hsPIo2.wav
+data/processed/audio/test/AsantiTwiMa22-TQnsZxsp-Tmp032-jsMkIV.flac,A ohuu wɔ nkran,asante,male,22,asante:TQnsZxsp,Tmp032,2.658,AsantiTwiMa22-TQnsZxsp-Tmp032-jsMkIV.wav
+data/processed/audio/test/AsantiTwiMa22-TQnsZxsp-Tmp042-H2E3HG.flac,Aane,asante,male,22,asante:TQnsZxsp,Tmp042,1.538,AsantiTwiMa22-TQnsZxsp-Tmp042-H2E3HG.wav
+data/processed/audio/test/AsantiTwiMa22-TQnsZxsp-Tmp086-zgSQG9.flac,Meredwene wo ho,asante,male,22,asante:TQnsZxsp,Tmp086,2.458,AsantiTwiMa22-TQnsZxsp-Tmp086-zgSQG9.wav
+data/processed/audio/test/AsantiTwiMa22-TQnsZxsp-Tmp091-0L0zZp.flac,Efiri sɛ,asante,male,22,asante:TQnsZxsp,Tmp091,1.718,AsantiTwiMa22-TQnsZxsp-Tmp091-0L0zZp.wav
+data/processed/audio/test/AsantiTwiMa22-TQnsZxsp-Tmp093-Zs3VYZ.flac,Akwaaba,asante,male,22,asante:TQnsZxsp,Tmp093,1.638,AsantiTwiMa22-TQnsZxsp-Tmp093-Zs3VYZ.wav
+data/processed/audio/test/AsantiTwiMa23-ASNQhWxc-Tmp078-JrMTEt.flac,Yɛ wɔ,asante,male,23,asante:ASNQhWxc,Tmp078,1.378,AsantiTwiMa23-ASNQhWxc-Tmp078-JrMTEt.wav
+data/processed/audio/test/AsantiTwiMa23-ASNQhWxc-Tmp093-SqPi2B.flac,Akwaaba,asante,male,23,asante:ASNQhWxc,Tmp093,1.118,AsantiTwiMa23-ASNQhWxc-Tmp093-SqPi2B.wav
+data/processed/audio/test/AsantiTwiMa23-GZbYgtiC-Tmp042-odqFxR.flac,Aane,asante,male,23,asante:GZbYgtiC,Tmp042,3.178,AsantiTwiMa23-GZbYgtiC-Tmp042-odqFxR.wav
+data/processed/audio/test/AsantiTwiMa23-MA13mjb1-Tmp093-R9vNCJ.flac,Akwaaba,asante,male,23,asante:MA13mjb1,Tmp093,1.998,AsantiTwiMa23-MA13mjb1-Tmp093-R9vNCJ.wav
+data/processed/audio/test/AsantiTwiMa23-MA13mjb1-Tmp105-VNUeBr.flac,Woka borɔfo,asante,male,23,asante:MA13mjb1,Tmp105,2.318,AsantiTwiMa23-MA13mjb1-Tmp105-VNUeBr.wav
+data/processed/audio/test/AsantiTwiMa23-PAWhjS09-Tmp108-Y5cJcb.flac,Mayera,asante,male,23,asante:PAWhjS09,Tmp108,4.513,AsantiTwiMa23-PAWhjS09-Tmp108-Y5cJcb.wav
+data/processed/audio/test/AsantiTwiMa25-JAFefgqX-Tmp084-cHvXE0.flac,Wɔn ti,asante,male,25,asante:JAFefgqX,Tmp084,3.658,AsantiTwiMa25-JAFefgqX-Tmp084-cHvXE0.wav
+data/processed/audio/test/AsantiTwiMa25-JAFefgqX-Tmp105-jZOVSw.flac,Woka borɔfo,asante,male,25,asante:JAFefgqX,Tmp105,3.938,AsantiTwiMa25-JAFefgqX-Tmp105-jZOVSw.wav
+data/processed/audio/test/AsantiTwiMa25-MK0aWumC-Tmp058-ZtS38r.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,male,25,asante:MK0aWumC,Tmp058,6.698,AsantiTwiMa25-MK0aWumC-Tmp058-ZtS38r.wav
+data/processed/audio/test/AsantiTwiMa25-MK0aWumC-Tmp108-QNXXpp.flac,Mayera,asante,male,25,asante:MK0aWumC,Tmp108,3.818,AsantiTwiMa25-MK0aWumC-Tmp108-QNXXpp.wav
+data/processed/audio/test/AsantiTwiMa27-BOewqZl5-Tmp058-fAHIZO.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,male,27,asante:BOewqZl5,Tmp058,4.638,AsantiTwiMa27-BOewqZl5-Tmp058-fAHIZO.wav
+data/processed/audio/test/AsantiTwiMa27-CGxTk2ea-Tmp081-7Huwsn.flac,Yaw ne Ama,asante,male,27,asante:CGxTk2ea,Tmp081,5.178,AsantiTwiMa27-CGxTk2ea-Tmp081-7Huwsn.wav
+data/processed/audio/test/AsantiTwiMa27-CGxTk2ea-Tmp105-OELTnx.flac,Woka borɔfo,asante,male,27,asante:CGxTk2ea,Tmp105,5.398,AsantiTwiMa27-CGxTk2ea-Tmp105-OELTnx.wav
+data/processed/audio/test/AsantiTwiMa29-AAKxYEAs-Tmp024-rAWV3M.flac,Pia no bio,asante,male,29,asante:AAKxYEAs,Tmp024,2.558,AsantiTwiMa29-AAKxYEAs-Tmp024-rAWV3M.wav
+data/processed/audio/test/AsantiTwiMa29-AAKxYEAs-Tmp084-YEAX9j.flac,Wɔn ti,asante,male,29,asante:AAKxYEAs,Tmp084,1.958,AsantiTwiMa29-AAKxYEAs-Tmp084-YEAX9j.wav
+data/processed/audio/test/AsantiTwiMa29-AAKxYEAs-Tmp108-BLv5MJ.flac,Mayera,asante,male,29,asante:AAKxYEAs,Tmp108,2.298,AsantiTwiMa29-AAKxYEAs-Tmp108-BLv5MJ.wav
+data/processed/audio/test/AsantiTwiMa29-EORdfqlz-Tmp032-cK1LwO.flac,A ohuu wɔ nkran,asante,male,29,asante:EORdfqlz,Tmp032,2.3,AsantiTwiMa29-EORdfqlz-Tmp032-cK1LwO.wav
+data/processed/audio/test/AsantiTwiMa29-EORdfqlz-Tmp110-umfPx3.flac,ɛkɔm de me,asante,male,29,asante:EORdfqlz,Tmp110,1.62,AsantiTwiMa29-EORdfqlz-Tmp110-umfPx3.wav
+data/processed/audio/test/AsantiTwiMa33-JAHXKTbU-Tmp004-je91eO.flac,Okuu adubɔfoɔ,asante,male,33,asante:JAHXKTbU,Tmp004,6.978,AsantiTwiMa33-JAHXKTbU-Tmp004-je91eO.wav
+data/processed/audio/test/AsantiTwiMa33-JAHXKTbU-Tmp024-KJOPJr.flac,Pia no bio,asante,male,33,asante:JAHXKTbU,Tmp024,8.058,AsantiTwiMa33-JAHXKTbU-Tmp024-KJOPJr.wav
+data/processed/audio/test/AsantiTwiMa43-SA1nhEic-Tmp032-G5PgRy.flac,A ohuu wɔ nkran,asante,male,43,asante:SA1nhEic,Tmp032,1.698,AsantiTwiMa43-SA1nhEic-Tmp032-G5PgRy.wav
+data/processed/audio/test/AsantiTwiMa43-SA1nhEic-Tmp048-0LJcBf.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,male,43,asante:SA1nhEic,Tmp048,2.838,AsantiTwiMa43-SA1nhEic-Tmp048-0LJcBf.wav
+data/processed/audio/test/AsantiTwiMa43-SA1nhEic-Tmp058-UXUix0.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,male,43,asante:SA1nhEic,Tmp058,2.978,AsantiTwiMa43-SA1nhEic-Tmp058-UXUix0.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp004-52x4IH.flac,Okuu adubɔfoɔ,asante,female,19,asante:SHYw5y1R,Tmp004,4.358,AsantiTwiFm19-SHYw5y1R-Tmp004-52x4IH.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp024-G9pS2l.flac,Pia no bio,asante,female,19,asante:SHYw5y1R,Tmp024,3.758,AsantiTwiFm19-SHYw5y1R-Tmp024-G9pS2l.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp032-8m3SVy.flac,A ohuu wɔ nkran,asante,female,19,asante:SHYw5y1R,Tmp032,4.378,AsantiTwiFm19-SHYw5y1R-Tmp032-8m3SVy.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp042-BQ6KdD.flac,Aane,asante,female,19,asante:SHYw5y1R,Tmp042,3.258,AsantiTwiFm19-SHYw5y1R-Tmp042-BQ6KdD.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp048-TmjE5V.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,19,asante:SHYw5y1R,Tmp048,6.138,AsantiTwiFm19-SHYw5y1R-Tmp048-TmjE5V.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp058-paOYYy.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,19,asante:SHYw5y1R,Tmp058,5.858,AsantiTwiFm19-SHYw5y1R-Tmp058-paOYYy.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp078-2ijRNE.flac,Yɛ wɔ,asante,female,19,asante:SHYw5y1R,Tmp078,3.658,AsantiTwiFm19-SHYw5y1R-Tmp078-2ijRNE.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp081-FSVHka.flac,Yaw ne Ama,asante,female,19,asante:SHYw5y1R,Tmp081,4.218,AsantiTwiFm19-SHYw5y1R-Tmp081-FSVHka.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp084-lYyt1q.flac,Wɔn ti,asante,female,19,asante:SHYw5y1R,Tmp084,4.038,AsantiTwiFm19-SHYw5y1R-Tmp084-lYyt1q.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp086-T9cgVs.flac,Meredwene wo ho,asante,female,19,asante:SHYw5y1R,Tmp086,4.518,AsantiTwiFm19-SHYw5y1R-Tmp086-T9cgVs.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp091-Fgmqww.flac,Efiri sɛ,asante,female,19,asante:SHYw5y1R,Tmp091,4.018,AsantiTwiFm19-SHYw5y1R-Tmp091-Fgmqww.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp105-WIPcbm.flac,Woka borɔfo,asante,female,19,asante:SHYw5y1R,Tmp105,4.018,AsantiTwiFm19-SHYw5y1R-Tmp105-WIPcbm.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp108-GVu1rK.flac,Mayera,asante,female,19,asante:SHYw5y1R,Tmp108,3.778,AsantiTwiFm19-SHYw5y1R-Tmp108-GVu1rK.wav
+data/processed/audio/test/AsantiTwiFm19-SHYw5y1R-Tmp110-XBllgY.flac,ɛkɔm de me,asante,female,19,asante:SHYw5y1R,Tmp110,3.998,AsantiTwiFm19-SHYw5y1R-Tmp110-XBllgY.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp004-u46OWw.flac,Okuu adubɔfoɔ,asante,female,20,asante:CTwUaRZ4,Tmp004,3.778,AsantiTwiFm20-CTwUaRZ4-Tmp004-u46OWw.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp024-iYwyDt.flac,Pia no bio,asante,female,20,asante:CTwUaRZ4,Tmp024,1.698,AsantiTwiFm20-CTwUaRZ4-Tmp024-iYwyDt.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp032-a1a4oI.flac,A ohuu wɔ nkran,asante,female,20,asante:CTwUaRZ4,Tmp032,2.558,AsantiTwiFm20-CTwUaRZ4-Tmp032-a1a4oI.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp042-k4g2St.flac,Aane,asante,female,20,asante:CTwUaRZ4,Tmp042,1.738,AsantiTwiFm20-CTwUaRZ4-Tmp042-k4g2St.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp048-3lIHA2.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,20,asante:CTwUaRZ4,Tmp048,4.778,AsantiTwiFm20-CTwUaRZ4-Tmp048-3lIHA2.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp058-tohL5j.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,20,asante:CTwUaRZ4,Tmp058,3.238,AsantiTwiFm20-CTwUaRZ4-Tmp058-tohL5j.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp078-nNvDeK.flac,Yɛ wɔ,asante,female,20,asante:CTwUaRZ4,Tmp078,1.598,AsantiTwiFm20-CTwUaRZ4-Tmp078-nNvDeK.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp081-ig2uu9.flac,Yaw ne Ama,asante,female,20,asante:CTwUaRZ4,Tmp081,2.018,AsantiTwiFm20-CTwUaRZ4-Tmp081-ig2uu9.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp084-Q5YLgt.flac,Wɔn ti,asante,female,20,asante:CTwUaRZ4,Tmp084,1.818,AsantiTwiFm20-CTwUaRZ4-Tmp084-Q5YLgt.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp086-B3Wujh.flac,Meredwene wo ho,asante,female,20,asante:CTwUaRZ4,Tmp086,1.898,AsantiTwiFm20-CTwUaRZ4-Tmp086-B3Wujh.wav
+data/processed/audio/test/AsantiTwiFm20-CTwUaRZ4-Tmp091-fEYhh0.flac,Efiri sɛ,asante,female,20,asante:CTwUaRZ4,Tmp091,1.918,AsantiTwiFm20-CTwUaRZ4-Tmp091-fEYhh0.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp004-RUGdYZ.flac,Okuu adubɔfoɔ,asante,female,20,asante:WAYCuwHN,Tmp004,2.733,AsantiTwiFm20-WAYCuwHN-Tmp004-RUGdYZ.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp024-R91Ila.flac,Pia no bio,asante,female,20,asante:WAYCuwHN,Tmp024,1.933,AsantiTwiFm20-WAYCuwHN-Tmp024-R91Ila.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp032-L3a1Lc.flac,A ohuu wɔ nkran,asante,female,20,asante:WAYCuwHN,Tmp032,2.174,AsantiTwiFm20-WAYCuwHN-Tmp032-L3a1Lc.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp042-gMO4r3.flac,Aane,asante,female,20,asante:WAYCuwHN,Tmp042,1.754,AsantiTwiFm20-WAYCuwHN-Tmp042-gMO4r3.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp048-S0maRB.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,20,asante:WAYCuwHN,Tmp048,4.333,AsantiTwiFm20-WAYCuwHN-Tmp048-S0maRB.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp058-yJzpoM.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,20,asante:WAYCuwHN,Tmp058,3.733,AsantiTwiFm20-WAYCuwHN-Tmp058-yJzpoM.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp078-x7bTwX.flac,Yɛ wɔ,asante,female,20,asante:WAYCuwHN,Tmp078,3.753,AsantiTwiFm20-WAYCuwHN-Tmp078-x7bTwX.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp081-xFRLDl.flac,Yaw ne Ama,asante,female,20,asante:WAYCuwHN,Tmp081,2.174,AsantiTwiFm20-WAYCuwHN-Tmp081-xFRLDl.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp084-TmPbb0.flac,Wɔn ti,asante,female,20,asante:WAYCuwHN,Tmp084,2.154,AsantiTwiFm20-WAYCuwHN-Tmp084-TmPbb0.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp086-2G89Qm.flac,Meredwene wo ho,asante,female,20,asante:WAYCuwHN,Tmp086,3.154,AsantiTwiFm20-WAYCuwHN-Tmp086-2G89Qm.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp091-ZZLiRP.flac,Efiri sɛ,asante,female,20,asante:WAYCuwHN,Tmp091,3.174,AsantiTwiFm20-WAYCuwHN-Tmp091-ZZLiRP.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp093-V36kJL.flac,Akwaaba,asante,female,20,asante:WAYCuwHN,Tmp093,3.213,AsantiTwiFm20-WAYCuwHN-Tmp093-V36kJL.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp105-YhOj3N.flac,Woka borɔfo,asante,female,20,asante:WAYCuwHN,Tmp105,3.393,AsantiTwiFm20-WAYCuwHN-Tmp105-YhOj3N.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp108-EuiiJP.flac,Mayera,asante,female,20,asante:WAYCuwHN,Tmp108,2.554,AsantiTwiFm20-WAYCuwHN-Tmp108-EuiiJP.wav
+data/processed/audio/test/AsantiTwiFm20-WAYCuwHN-Tmp110-wMkG2x.flac,ɛkɔm de me,asante,female,20,asante:WAYCuwHN,Tmp110,2.313,AsantiTwiFm20-WAYCuwHN-Tmp110-wMkG2x.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp004-v3UI7H.flac,Okuu adubɔfoɔ,asante,female,21,asante:BOaE8gwt,Tmp004,4.718,AsantiTwiFm21-BOaE8gwt-Tmp004-v3UI7H.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp024-9zqxwe.flac,Pia no bio,asante,female,21,asante:BOaE8gwt,Tmp024,4.018,AsantiTwiFm21-BOaE8gwt-Tmp024-9zqxwe.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp032-UDkv5G.flac,A ohuu wɔ nkran,asante,female,21,asante:BOaE8gwt,Tmp032,4.278,AsantiTwiFm21-BOaE8gwt-Tmp032-UDkv5G.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp042-yV9155.flac,Aane,asante,female,21,asante:BOaE8gwt,Tmp042,4.898,AsantiTwiFm21-BOaE8gwt-Tmp042-yV9155.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp048-kIuu30.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,21,asante:BOaE8gwt,Tmp048,7.658,AsantiTwiFm21-BOaE8gwt-Tmp048-kIuu30.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp058-SKP1IK.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,21,asante:BOaE8gwt,Tmp058,7.418,AsantiTwiFm21-BOaE8gwt-Tmp058-SKP1IK.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp078-uWoJV9.flac,Yɛ wɔ,asante,female,21,asante:BOaE8gwt,Tmp078,4.318,AsantiTwiFm21-BOaE8gwt-Tmp078-uWoJV9.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp081-dNKuJY.flac,Yaw ne Ama,asante,female,21,asante:BOaE8gwt,Tmp081,5.358,AsantiTwiFm21-BOaE8gwt-Tmp081-dNKuJY.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp084-s9iqix.flac,Wɔn ti,asante,female,21,asante:BOaE8gwt,Tmp084,2.398,AsantiTwiFm21-BOaE8gwt-Tmp084-s9iqix.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp086-rEglNW.flac,Meredwene wo ho,asante,female,21,asante:BOaE8gwt,Tmp086,3.478,AsantiTwiFm21-BOaE8gwt-Tmp086-rEglNW.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp091-lb1WBU.flac,Efiri sɛ,asante,female,21,asante:BOaE8gwt,Tmp091,6.858,AsantiTwiFm21-BOaE8gwt-Tmp091-lb1WBU.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp093-EG2vnA.flac,Akwaaba,asante,female,21,asante:BOaE8gwt,Tmp093,4.338,AsantiTwiFm21-BOaE8gwt-Tmp093-EG2vnA.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp105-7e8AaB.flac,Woka borɔfo,asante,female,21,asante:BOaE8gwt,Tmp105,3.778,AsantiTwiFm21-BOaE8gwt-Tmp105-7e8AaB.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp108-qQ1H21.flac,Mayera,asante,female,21,asante:BOaE8gwt,Tmp108,3.578,AsantiTwiFm21-BOaE8gwt-Tmp108-qQ1H21.wav
+data/processed/audio/test/AsantiTwiFm21-BOaE8gwt-Tmp110-qu0Z7b.flac,ɛkɔm de me,asante,female,21,asante:BOaE8gwt,Tmp110,2.698,AsantiTwiFm21-BOaE8gwt-Tmp110-qu0Z7b.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp004-RKKfut.flac,Okuu adubɔfoɔ,asante,female,21,asante:MBi5I8oJ,Tmp004,5.274,AsantiTwiFm21-MBi5I8oJ-Tmp004-RKKfut.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp024-wnVWzR.flac,Pia no bio,asante,female,21,asante:MBi5I8oJ,Tmp024,4.774,AsantiTwiFm21-MBi5I8oJ-Tmp024-wnVWzR.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp032-ylJYhj.flac,A ohuu wɔ nkran,asante,female,21,asante:MBi5I8oJ,Tmp032,5.633,AsantiTwiFm21-MBi5I8oJ-Tmp032-ylJYhj.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp042-5H4S9y.flac,Aane,asante,female,21,asante:MBi5I8oJ,Tmp042,4.154,AsantiTwiFm21-MBi5I8oJ-Tmp042-5H4S9y.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp048-rEBEqs.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,21,asante:MBi5I8oJ,Tmp048,6.333,AsantiTwiFm21-MBi5I8oJ-Tmp048-rEBEqs.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp058-dtfufK.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,21,asante:MBi5I8oJ,Tmp058,5.833,AsantiTwiFm21-MBi5I8oJ-Tmp058-dtfufK.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp078-MlZf1y.flac,Yɛ wɔ,asante,female,21,asante:MBi5I8oJ,Tmp078,4.093,AsantiTwiFm21-MBi5I8oJ-Tmp078-MlZf1y.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp081-csdoMi.flac,Yaw ne Ama,asante,female,21,asante:MBi5I8oJ,Tmp081,4.394,AsantiTwiFm21-MBi5I8oJ-Tmp081-csdoMi.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp084-LHewMY.flac,Wɔn ti,asante,female,21,asante:MBi5I8oJ,Tmp084,4.354,AsantiTwiFm21-MBi5I8oJ-Tmp084-LHewMY.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp086-C19ZGD.flac,Meredwene wo ho,asante,female,21,asante:MBi5I8oJ,Tmp086,4.454,AsantiTwiFm21-MBi5I8oJ-Tmp086-C19ZGD.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp091-LfHtnE.flac,Efiri sɛ,asante,female,21,asante:MBi5I8oJ,Tmp091,4.413,AsantiTwiFm21-MBi5I8oJ-Tmp091-LfHtnE.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp093-lKTKFL.flac,Akwaaba,asante,female,21,asante:MBi5I8oJ,Tmp093,4.373,AsantiTwiFm21-MBi5I8oJ-Tmp093-lKTKFL.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp105-i9JPfJ.flac,Woka borɔfo,asante,female,21,asante:MBi5I8oJ,Tmp105,4.194,AsantiTwiFm21-MBi5I8oJ-Tmp105-i9JPfJ.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp108-TNfOP0.flac,Mayera,asante,female,21,asante:MBi5I8oJ,Tmp108,4.013,AsantiTwiFm21-MBi5I8oJ-Tmp108-TNfOP0.wav
+data/processed/audio/test/AsantiTwiFm21-MBi5I8oJ-Tmp110-Sg5uTM.flac,ɛkɔm de me,asante,female,21,asante:MBi5I8oJ,Tmp110,4.593,AsantiTwiFm21-MBi5I8oJ-Tmp110-Sg5uTM.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp004-u4cQD5.flac,Okuu adubɔfoɔ,asante,female,22,asante:EA5haDXk,Tmp004,2.654,AsantiTwiFm22-EA5haDXk-Tmp004-u4cQD5.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp024-InuXh1.flac,Pia no bio,asante,female,22,asante:EA5haDXk,Tmp024,1.714,AsantiTwiFm22-EA5haDXk-Tmp024-InuXh1.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp042-AwXlss.flac,Aane,asante,female,22,asante:EA5haDXk,Tmp042,1.613,AsantiTwiFm22-EA5haDXk-Tmp042-AwXlss.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp048-SysmmS.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,22,asante:EA5haDXk,Tmp048,3.933,AsantiTwiFm22-EA5haDXk-Tmp048-SysmmS.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp058-EpAi1I.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,22,asante:EA5haDXk,Tmp058,4.093,AsantiTwiFm22-EA5haDXk-Tmp058-EpAi1I.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp078-gU3HSX.flac,Yɛ wɔ,asante,female,22,asante:EA5haDXk,Tmp078,1.353,AsantiTwiFm22-EA5haDXk-Tmp078-gU3HSX.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp081-Y2WWBG.flac,Yaw ne Ama,asante,female,22,asante:EA5haDXk,Tmp081,3.193,AsantiTwiFm22-EA5haDXk-Tmp081-Y2WWBG.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp084-SaQxBH.flac,Wɔn ti,asante,female,22,asante:EA5haDXk,Tmp084,2.853,AsantiTwiFm22-EA5haDXk-Tmp084-SaQxBH.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp086-iq3iOQ.flac,Meredwene wo ho,asante,female,22,asante:EA5haDXk,Tmp086,3.193,AsantiTwiFm22-EA5haDXk-Tmp086-iq3iOQ.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp091-5Uf3xc.flac,Efiri sɛ,asante,female,22,asante:EA5haDXk,Tmp091,1.754,AsantiTwiFm22-EA5haDXk-Tmp091-5Uf3xc.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp093-ewuuxp.flac,Akwaaba,asante,female,22,asante:EA5haDXk,Tmp093,2.373,AsantiTwiFm22-EA5haDXk-Tmp093-ewuuxp.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp105-0HRqs7.flac,Woka borɔfo,asante,female,22,asante:EA5haDXk,Tmp105,2.134,AsantiTwiFm22-EA5haDXk-Tmp105-0HRqs7.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp108-Jpqe6U.flac,Mayera,asante,female,22,asante:EA5haDXk,Tmp108,2.134,AsantiTwiFm22-EA5haDXk-Tmp108-Jpqe6U.wav
+data/processed/audio/test/AsantiTwiFm22-EA5haDXk-Tmp110-ULRXbx.flac,ɛkɔm de me,asante,female,22,asante:EA5haDXk,Tmp110,1.353,AsantiTwiFm22-EA5haDXk-Tmp110-ULRXbx.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp024-YM1A35.flac,Pia no bio,asante,female,22,asante:MAQYxgil,Tmp024,4.114,AsantiTwiFm22-MAQYxgil-Tmp024-YM1A35.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp032-bNsxxA.flac,A ohuu wɔ nkran,asante,female,22,asante:MAQYxgil,Tmp032,4.293,AsantiTwiFm22-MAQYxgil-Tmp032-bNsxxA.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp042-xJPP3J.flac,Aane,asante,female,22,asante:MAQYxgil,Tmp042,3.534,AsantiTwiFm22-MAQYxgil-Tmp042-xJPP3J.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp048-AhGe87.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,22,asante:MAQYxgil,Tmp048,6.553,AsantiTwiFm22-MAQYxgil-Tmp048-AhGe87.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp058-SKb5c8.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,22,asante:MAQYxgil,Tmp058,6.234,AsantiTwiFm22-MAQYxgil-Tmp058-SKb5c8.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp078-NW4lwP.flac,Yɛ wɔ,asante,female,22,asante:MAQYxgil,Tmp078,3.373,AsantiTwiFm22-MAQYxgil-Tmp078-NW4lwP.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp081-ltALFc.flac,Yaw ne Ama,asante,female,22,asante:MAQYxgil,Tmp081,3.753,AsantiTwiFm22-MAQYxgil-Tmp081-ltALFc.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp086-4y6hNX.flac,Meredwene wo ho,asante,female,22,asante:MAQYxgil,Tmp086,3.614,AsantiTwiFm22-MAQYxgil-Tmp086-4y6hNX.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp091-VJhucE.flac,Efiri sɛ,asante,female,22,asante:MAQYxgil,Tmp091,2.193,AsantiTwiFm22-MAQYxgil-Tmp091-VJhucE.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp093-u0fCwx.flac,Akwaaba,asante,female,22,asante:MAQYxgil,Tmp093,6.053,AsantiTwiFm22-MAQYxgil-Tmp093-u0fCwx.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp105-zCdILE.flac,Woka borɔfo,asante,female,22,asante:MAQYxgil,Tmp105,3.554,AsantiTwiFm22-MAQYxgil-Tmp105-zCdILE.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp108-aJI6OI.flac,Mayera,asante,female,22,asante:MAQYxgil,Tmp108,3.554,AsantiTwiFm22-MAQYxgil-Tmp108-aJI6OI.wav
+data/processed/audio/test/AsantiTwiFm22-MAQYxgil-Tmp110-8R26LD.flac,ɛkɔm de me,asante,female,22,asante:MAQYxgil,Tmp110,3.793,AsantiTwiFm22-MAQYxgil-Tmp110-8R26LD.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp024-ecbeE6.flac,Pia no bio,asante,female,22,asante:PQ6RJqMf,Tmp024,4.498,AsantiTwiFm22-PQ6RJqMf-Tmp024-ecbeE6.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp032-OdM1L8.flac,A ohuu wɔ nkran,asante,female,22,asante:PQ6RJqMf,Tmp032,4.638,AsantiTwiFm22-PQ6RJqMf-Tmp032-OdM1L8.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp042-SdFeYz.flac,Aane,asante,female,22,asante:PQ6RJqMf,Tmp042,4.318,AsantiTwiFm22-PQ6RJqMf-Tmp042-SdFeYz.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp058-SjZeYK.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,22,asante:PQ6RJqMf,Tmp058,6.558,AsantiTwiFm22-PQ6RJqMf-Tmp058-SjZeYK.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp078-pR3Zz1.flac,Yɛ wɔ,asante,female,22,asante:PQ6RJqMf,Tmp078,3.998,AsantiTwiFm22-PQ6RJqMf-Tmp078-pR3Zz1.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp081-fjgk2G.flac,Yaw ne Ama,asante,female,22,asante:PQ6RJqMf,Tmp081,3.858,AsantiTwiFm22-PQ6RJqMf-Tmp081-fjgk2G.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp084-kERLPE.flac,Wɔn ti,asante,female,22,asante:PQ6RJqMf,Tmp084,4.038,AsantiTwiFm22-PQ6RJqMf-Tmp084-kERLPE.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp086-nYkV41.flac,Meredwene wo ho,asante,female,22,asante:PQ6RJqMf,Tmp086,4.078,AsantiTwiFm22-PQ6RJqMf-Tmp086-nYkV41.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp091-58ftsN.flac,Efiri sɛ,asante,female,22,asante:PQ6RJqMf,Tmp091,4.318,AsantiTwiFm22-PQ6RJqMf-Tmp091-58ftsN.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp093-UNJmxp.flac,Akwaaba,asante,female,22,asante:PQ6RJqMf,Tmp093,3.698,AsantiTwiFm22-PQ6RJqMf-Tmp093-UNJmxp.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp105-O8JDv8.flac,Woka borɔfo,asante,female,22,asante:PQ6RJqMf,Tmp105,3.898,AsantiTwiFm22-PQ6RJqMf-Tmp105-O8JDv8.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp108-zqhQD5.flac,Mayera,asante,female,22,asante:PQ6RJqMf,Tmp108,3.978,AsantiTwiFm22-PQ6RJqMf-Tmp108-zqhQD5.wav
+data/processed/audio/test/AsantiTwiFm22-PQ6RJqMf-Tmp110-t9j7fR.flac,ɛkɔm de me,asante,female,22,asante:PQ6RJqMf,Tmp110,3.718,AsantiTwiFm22-PQ6RJqMf-Tmp110-t9j7fR.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp004-f4hFew.flac,Okuu adubɔfoɔ,asante,female,23,asante:FAXbTmoc,Tmp004,2.378,AsantiTwiFm23-FAXbTmoc-Tmp004-f4hFew.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp024-OGnTnP.flac,Pia no bio,asante,female,23,asante:FAXbTmoc,Tmp024,1.418,AsantiTwiFm23-FAXbTmoc-Tmp024-OGnTnP.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp032-GVLEqU.flac,A ohuu wɔ nkran,asante,female,23,asante:FAXbTmoc,Tmp032,2.298,AsantiTwiFm23-FAXbTmoc-Tmp032-GVLEqU.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp042-dxZE9d.flac,Aane,asante,female,23,asante:FAXbTmoc,Tmp042,1.518,AsantiTwiFm23-FAXbTmoc-Tmp042-dxZE9d.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp048-ORqLzW.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,23,asante:FAXbTmoc,Tmp048,3.058,AsantiTwiFm23-FAXbTmoc-Tmp048-ORqLzW.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp058-XokUCN.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,23,asante:FAXbTmoc,Tmp058,3.098,AsantiTwiFm23-FAXbTmoc-Tmp058-XokUCN.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp078-qQC2w3.flac,Yɛ wɔ,asante,female,23,asante:FAXbTmoc,Tmp078,1.038,AsantiTwiFm23-FAXbTmoc-Tmp078-qQC2w3.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp081-mg3efP.flac,Yaw ne Ama,asante,female,23,asante:FAXbTmoc,Tmp081,1.478,AsantiTwiFm23-FAXbTmoc-Tmp081-mg3efP.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp084-ymEjDu.flac,Wɔn ti,asante,female,23,asante:FAXbTmoc,Tmp084,1.158,AsantiTwiFm23-FAXbTmoc-Tmp084-ymEjDu.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp086-NSBgiu.flac,Meredwene wo ho,asante,female,23,asante:FAXbTmoc,Tmp086,1.698,AsantiTwiFm23-FAXbTmoc-Tmp086-NSBgiu.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp091-lw5VyM.flac,Efiri sɛ,asante,female,23,asante:FAXbTmoc,Tmp091,1.138,AsantiTwiFm23-FAXbTmoc-Tmp091-lw5VyM.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp093-vW2OoY.flac,Akwaaba,asante,female,23,asante:FAXbTmoc,Tmp093,1.498,AsantiTwiFm23-FAXbTmoc-Tmp093-vW2OoY.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp105-80uz9p.flac,Woka borɔfo,asante,female,23,asante:FAXbTmoc,Tmp105,1.098,AsantiTwiFm23-FAXbTmoc-Tmp105-80uz9p.wav
+data/processed/audio/test/AsantiTwiFm23-FAXbTmoc-Tmp110-3Twm7U.flac,ɛkɔm de me,asante,female,23,asante:FAXbTmoc,Tmp110,0.978,AsantiTwiFm23-FAXbTmoc-Tmp110-3Twm7U.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp004-mJSFP4.flac,Okuu adubɔfoɔ,asante,female,24,asante:D wcPjE8,Tmp004,5.478,AsantiTwiFm24-D wcPjE8-Tmp004-mJSFP4.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp024-Aia4Fi.flac,Pia no bio,asante,female,24,asante:D wcPjE8,Tmp024,3.418,AsantiTwiFm24-D wcPjE8-Tmp024-Aia4Fi.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp032-7MlV1e.flac,A ohuu wɔ nkran,asante,female,24,asante:D wcPjE8,Tmp032,4.138,AsantiTwiFm24-D wcPjE8-Tmp032-7MlV1e.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp042-sZX30u.flac,Aane,asante,female,24,asante:D wcPjE8,Tmp042,4.058,AsantiTwiFm24-D wcPjE8-Tmp042-sZX30u.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp048-ZiPpI0.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,24,asante:D wcPjE8,Tmp048,5.618,AsantiTwiFm24-D wcPjE8-Tmp048-ZiPpI0.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp058-d38l7y.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,24,asante:D wcPjE8,Tmp058,5.398,AsantiTwiFm24-D wcPjE8-Tmp058-d38l7y.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp078-EmvsFi.flac,Yɛ wɔ,asante,female,24,asante:D wcPjE8,Tmp078,2.838,AsantiTwiFm24-D wcPjE8-Tmp078-EmvsFi.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp081-u6l8sp.flac,Yaw ne Ama,asante,female,24,asante:D wcPjE8,Tmp081,4.258,AsantiTwiFm24-D wcPjE8-Tmp081-u6l8sp.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp084-2TWrNS.flac,Wɔn ti,asante,female,24,asante:D wcPjE8,Tmp084,3.318,AsantiTwiFm24-D wcPjE8-Tmp084-2TWrNS.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp086-7xkDo6.flac,Meredwene wo ho,asante,female,24,asante:D wcPjE8,Tmp086,3.638,AsantiTwiFm24-D wcPjE8-Tmp086-7xkDo6.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp091-6wDcSt.flac,Efiri sɛ,asante,female,24,asante:D wcPjE8,Tmp091,2.878,AsantiTwiFm24-D wcPjE8-Tmp091-6wDcSt.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp093-f09Sog.flac,Akwaaba,asante,female,24,asante:D wcPjE8,Tmp093,3.178,AsantiTwiFm24-D wcPjE8-Tmp093-f09Sog.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp105-RWQefM.flac,Woka borɔfo,asante,female,24,asante:D wcPjE8,Tmp105,3.358,AsantiTwiFm24-D wcPjE8-Tmp105-RWQefM.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp108-AyeYbX.flac,Mayera,asante,female,24,asante:D wcPjE8,Tmp108,3.078,AsantiTwiFm24-D wcPjE8-Tmp108-AyeYbX.wav
+data/processed/audio/test/AsantiTwiFm24-D wcPjE8-Tmp110-loLJSB.flac,ɛkɔm de me,asante,female,24,asante:D wcPjE8,Tmp110,3.318,AsantiTwiFm24-D wcPjE8-Tmp110-loLJSB.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp004-hvzUCr.flac,Okuu adubɔfoɔ,asante,female,24,asante:FA5lyzBU,Tmp004,3.398,AsantiTwiFm24-FA5lyzBU-Tmp004-hvzUCr.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp024-UY0W7S.flac,Pia no bio,asante,female,24,asante:FA5lyzBU,Tmp024,2.538,AsantiTwiFm24-FA5lyzBU-Tmp024-UY0W7S.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp032-vI5HnU.flac,A ohuu wɔ nkran,asante,female,24,asante:FA5lyzBU,Tmp032,3.438,AsantiTwiFm24-FA5lyzBU-Tmp032-vI5HnU.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp042-p45Cbv.flac,Aane,asante,female,24,asante:FA5lyzBU,Tmp042,3.838,AsantiTwiFm24-FA5lyzBU-Tmp042-p45Cbv.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp058-7c9ZVm.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,24,asante:FA5lyzBU,Tmp058,6.158,AsantiTwiFm24-FA5lyzBU-Tmp058-7c9ZVm.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp078-p5EGLw.flac,Yɛ wɔ,asante,female,24,asante:FA5lyzBU,Tmp078,3.218,AsantiTwiFm24-FA5lyzBU-Tmp078-p5EGLw.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp081-G0rJHf.flac,Yaw ne Ama,asante,female,24,asante:FA5lyzBU,Tmp081,3.038,AsantiTwiFm24-FA5lyzBU-Tmp081-G0rJHf.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp084-GYfRYu.flac,Wɔn ti,asante,female,24,asante:FA5lyzBU,Tmp084,2.918,AsantiTwiFm24-FA5lyzBU-Tmp084-GYfRYu.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp086-8DWfjt.flac,Meredwene wo ho,asante,female,24,asante:FA5lyzBU,Tmp086,4.738,AsantiTwiFm24-FA5lyzBU-Tmp086-8DWfjt.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp091-5gjYXt.flac,Efiri sɛ,asante,female,24,asante:FA5lyzBU,Tmp091,3.438,AsantiTwiFm24-FA5lyzBU-Tmp091-5gjYXt.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp093-uriCFT.flac,Akwaaba,asante,female,24,asante:FA5lyzBU,Tmp093,4.058,AsantiTwiFm24-FA5lyzBU-Tmp093-uriCFT.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp105-o0ijEN.flac,Woka borɔfo,asante,female,24,asante:FA5lyzBU,Tmp105,4.418,AsantiTwiFm24-FA5lyzBU-Tmp105-o0ijEN.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp108-7WKegM.flac,Mayera,asante,female,24,asante:FA5lyzBU,Tmp108,3.658,AsantiTwiFm24-FA5lyzBU-Tmp108-7WKegM.wav
+data/processed/audio/test/AsantiTwiFm24-FA5lyzBU-Tmp110-JzjQYg.flac,ɛkɔm de me,asante,female,24,asante:FA5lyzBU,Tmp110,3.318,AsantiTwiFm24-FA5lyzBU-Tmp110-JzjQYg.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp004-Tv777R.flac,Okuu adubɔfoɔ,asante,female,24,asante:STWjCZCq,Tmp004,4.753,AsantiTwiFm24-STWjCZCq-Tmp004-Tv777R.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp024-81swWn.flac,Pia no bio,asante,female,24,asante:STWjCZCq,Tmp024,4.093,AsantiTwiFm24-STWjCZCq-Tmp024-81swWn.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp032-ZDHhTC.flac,A ohuu wɔ nkran,asante,female,24,asante:STWjCZCq,Tmp032,5.274,AsantiTwiFm24-STWjCZCq-Tmp032-ZDHhTC.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp042-NUZJGW.flac,Aane,asante,female,24,asante:STWjCZCq,Tmp042,4.333,AsantiTwiFm24-STWjCZCq-Tmp042-NUZJGW.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp048-x2qqjj.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,24,asante:STWjCZCq,Tmp048,6.494,AsantiTwiFm24-STWjCZCq-Tmp048-x2qqjj.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp058-NLChA7.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,24,asante:STWjCZCq,Tmp058,6.614,AsantiTwiFm24-STWjCZCq-Tmp058-NLChA7.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp078-LUhCvZ.flac,Yɛ wɔ,asante,female,24,asante:STWjCZCq,Tmp078,4.114,AsantiTwiFm24-STWjCZCq-Tmp078-LUhCvZ.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp081-B6FVco.flac,Yaw ne Ama,asante,female,24,asante:STWjCZCq,Tmp081,4.253,AsantiTwiFm24-STWjCZCq-Tmp081-B6FVco.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp084-vPMF1z.flac,Wɔn ti,asante,female,24,asante:STWjCZCq,Tmp084,3.753,AsantiTwiFm24-STWjCZCq-Tmp084-vPMF1z.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp086-PglwCh.flac,Meredwene wo ho,asante,female,24,asante:STWjCZCq,Tmp086,4.274,AsantiTwiFm24-STWjCZCq-Tmp086-PglwCh.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp091-NpWJVH.flac,Efiri sɛ,asante,female,24,asante:STWjCZCq,Tmp091,4.253,AsantiTwiFm24-STWjCZCq-Tmp091-NpWJVH.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp105-6D7uwU.flac,Woka borɔfo,asante,female,24,asante:STWjCZCq,Tmp105,4.314,AsantiTwiFm24-STWjCZCq-Tmp105-6D7uwU.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp108-yizRGD.flac,Mayera,asante,female,24,asante:STWjCZCq,Tmp108,4.413,AsantiTwiFm24-STWjCZCq-Tmp108-yizRGD.wav
+data/processed/audio/test/AsantiTwiFm24-STWjCZCq-Tmp110-PO5IhN.flac,ɛkɔm de me,asante,female,24,asante:STWjCZCq,Tmp110,3.954,AsantiTwiFm24-STWjCZCq-Tmp110-PO5IhN.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp004-MqPu4F.flac,Okuu adubɔfoɔ,asante,female,24,asante:VAD78uK2,Tmp004,4.998,AsantiTwiFm24-VAD78uK2-Tmp004-MqPu4F.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp024-uXJF6Q.flac,Pia no bio,asante,female,24,asante:VAD78uK2,Tmp024,4.358,AsantiTwiFm24-VAD78uK2-Tmp024-uXJF6Q.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp032-Z4JACk.flac,A ohuu wɔ nkran,asante,female,24,asante:VAD78uK2,Tmp032,5.038,AsantiTwiFm24-VAD78uK2-Tmp032-Z4JACk.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp042-uHI9xg.flac,Aane,asante,female,24,asante:VAD78uK2,Tmp042,4.638,AsantiTwiFm24-VAD78uK2-Tmp042-uHI9xg.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp048-atTLfw.flac,Mepaa’kyɛw me pɛsɛ me tɔ mtn credit,asante,female,24,asante:VAD78uK2,Tmp048,6.458,AsantiTwiFm24-VAD78uK2-Tmp048-atTLfw.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp058-KfZtXE.flac,Hello good morning. Mepaa’kyew mɛ tɔ credit (Maakye mepaa’kyew mɛ tɔ credit),asante,female,24,asante:VAD78uK2,Tmp058,5.978,AsantiTwiFm24-VAD78uK2-Tmp058-KfZtXE.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp078-7Xcffq.flac,Yɛ wɔ,asante,female,24,asante:VAD78uK2,Tmp078,4.278,AsantiTwiFm24-VAD78uK2-Tmp078-7Xcffq.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp081-I0nlNY.flac,Yaw ne Ama,asante,female,24,asante:VAD78uK2,Tmp081,4.698,AsantiTwiFm24-VAD78uK2-Tmp081-I0nlNY.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp084-vnXmfR.flac,Wɔn ti,asante,female,24,asante:VAD78uK2,Tmp084,4.458,AsantiTwiFm24-VAD78uK2-Tmp084-vnXmfR.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp091-vrQaWs.flac,Efiri sɛ,asante,female,24,asante:VAD78uK2,Tmp091,4.558,AsantiTwiFm24-VAD78uK2-Tmp091-vrQaWs.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp093-kcSRxP.flac,Akwaaba,asante,female,24,asante:VAD78uK2,Tmp093,4.118,AsantiTwiFm24-VAD78uK2-Tmp093-kcSRxP.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp105-vCKDgX.flac,Woka borɔfo,asante,female,24,asante:VAD78uK2,Tmp105,4.578,AsantiTwiFm24-VAD78uK2-Tmp105-vCKDgX.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp108-FScWMM.flac,Mayera,asante,female,24,asante:VAD78uK2,Tmp108,4.438,AsantiTwiFm24-VAD78uK2-Tmp108-FScWMM.wav
+data/processed/audio/test/AsantiTwiFm24-VAD78uK2-Tmp110-MvkOha.flac,ɛkɔm de me,asante,female,24,asante:VAD78uK2,Tmp110,4.938,AsantiTwiFm24-VAD78uK2-Tmp110-MvkOha.wav

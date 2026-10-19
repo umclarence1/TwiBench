@@ -1,0 +1,42 @@
+whisper-small: 150 clips from ood_test on cpu
+Loading weights:   0%|          | 0/479 [00:00<?, ?it/s]Loading weights:   7%|▋         | 35/479 [00:00<00:01, 347.26it/s]Loading weights:  15%|█▍        | 70/479 [00:00<00:01, 322.77it/s]Loading weights:  22%|██▏       | 103/479 [00:00<00:01, 322.01it/s]Loading weights:  37%|███▋      | 175/479 [00:00<00:00, 453.36it/s]Loading weights:  46%|████▌     | 220/479 [00:00<00:00, 396.28it/s]Loading weights:  54%|█████▍    | 261/479 [00:00<00:00, 299.85it/s]Loading weights:  62%|██████▏   | 295/479 [00:00<00:00, 287.60it/s]Loading weights:  68%|██████▊   | 326/479 [00:01<00:00, 258.64it/s]Loading weights:  74%|███████▍  | 354/479 [00:01<00:00, 234.66it/s]Loading weights: 100%|██████████| 479/479 [00:01<00:00, 387.14it/s]
+  0%|          | 0/10 [00:00<?, ?it/s][transformers] Passing `generation_config` together with generation-related arguments=({'begin_suppress_tokens', 'suppress_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.
+[transformers] The attention mask is not set with a batched input, and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Ignoring clean_up_tokenization_spaces=True for BPE tokenizer WhisperTokenizer. The clean_up_tokenization post-processing step is designed for WordPiece tokenizers and is destructive for BPE (it strips spaces before punctuation). Set clean_up_tokenization_spaces=False to suppress this warning, or set clean_up_tokenization_spaces_for_bpe_even_though_it_will_corrupt_output=True to force cleanup anyway.
+ 10%|█         | 1/10 [02:18<20:46, 138.48s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 20%|██        | 2/10 [04:39<18:38, 139.83s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 30%|███       | 3/10 [06:51<15:55, 136.51s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 40%|████      | 4/10 [10:06<15:56, 159.36s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 50%|█████     | 5/10 [12:12<12:16, 147.36s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 60%|██████    | 6/10 [14:05<09:02, 135.74s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 70%|███████   | 7/10 [16:23<06:49, 136.34s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 80%|████████  | 8/10 [18:39<04:32, 136.23s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+ 90%|█████████ | 9/10 [20:27<02:07, 127.54s/it][transformers] Both `max_new_tokens` (=128) and `max_length`(=448) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+100%|██████████| 10/10 [21:32<00:00, 108.31s/it]100%|██████████| 10/10 [21:32<00:00, 129.27s/it]
+model                      whisper-small
+model_id            openai/whisper-small
+split                           ood_test
+clips                                150
+wer                               1.1575
+cer                               0.6737
+wer_folded                        1.1376
+cer_folded                        0.6368
+real_time_factor                  1.0705
+
+Examples:
+  REF:  Melki ba, Adi ba, Kosam ba, Elmadam ba, Er ba,
+  PRED: Melkiba, Adiba, Kusamba, Almadamba, Eba
+
+  REF:  Melea ba, Mena ba, Matata ba, Natan ba, Dawid ba,
+  PRED: ḍᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃ�
+
+  REF:  Aminadab ba, Admin ba, Arni ba, Hesron ba, Peres ba, Yuda ba,
+  PRED: ḍmīn ādād bā, ādmin bā, āni bā, āsromba, pēwiz bā, yūdā bā.
+
+  REF:  Yakob ba, Isak ba, Abraham ba, Tera ba, Nahor ba,
+  PRED: ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ ὀ �
+
+  REF:  Serug ba, Reu ba, Peleg ba, Eber ba, Sela ba,
+  PRED: ḍ្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្្�
+

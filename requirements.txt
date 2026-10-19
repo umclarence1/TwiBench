@@ -1,0 +1,22 @@
+# Core
+torch>=2.2
+transformers>=4.45
+datasets>=3.0
+accelerate>=0.34
+huggingface_hub>=0.25
+
+# Audio
+librosa>=0.10
+soundfile>=0.12
+
+# Evaluation & analysis
+jiwer>=3.0
+pandas>=2.0
+matplotlib>=3.8
+tqdm
+
+# Demo
+gradio>=4.0
+
+# Tests
+pytest

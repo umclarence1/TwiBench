@@ -1,0 +1,5 @@
+model,model_id,split,clips,wer,cer,wer_folded,cer_folded,wer_asante,cer_asante,wer_female,cer_female,wer_male,cer_male,real_time_factor
+whisper-small,openai/whisper-small,test,234,1.7332,0.9981,1.7266,0.9742,1.7332,0.9981,1.7167,0.9568,1.822,1.2126,3.0759
+whisper-small-ft,C:\Users\Clarence\New folder\models\whisper-small-twi,test,234,0.7992,0.5453,0.716,0.5047,0.7992,0.5453,0.7887,0.5504,0.8559,0.5187,1.0617
+whisper-small-ft,C:\Users\Clarence\New folder\models\whisper-small-twi,ood_test,150,1.0152,0.688,1.001,0.6535,,,,,,,0.5461
+whisper-small,openai/whisper-small,ood_test,150,1.1575,0.6737,1.1376,0.6368,,,,,,,1.0705

@@ -1,0 +1,5 @@
+split,dialect,clips,speakers,prompts,hours,female_share
+dev,asante,137,17,13,0.13,0.85
+test,asante,234,32,15,0.24,0.84
+train,asante,7246,183,102,7.1,0.86
+unused,asante,4925,234,130,4.84,0.87
